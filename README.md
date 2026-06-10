@@ -40,10 +40,6 @@ Road accidents often require immediate attention to reduce response time and sav
 - Improve road safety through automation
 - Provide accurate location-based alerts
 
-## Dataset
-
-- COCO Dataset (~25 GB, 1.5M annotated object instances)
-- Additional testing performed on live video streams
 
 ## Future Enhancements
 
